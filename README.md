@@ -3,6 +3,8 @@ I'm a Physics major at NUST Islamabad, also pursuing a minor in Computer Science
 
 Areas of Expertise:
 
+- Julia
+- Non-linear DEs
 - Python programming
 - C++ development
 - Quantum Computing with Qiskit
