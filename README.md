@@ -1,16 +1,4 @@
-# Hi, I'm Owais!
-I'm a Physics major at NUST Islamabad, also pursuing a minor in Computer Science. My academic journey has led me to work across various domains, combining my passion for physics and computational techniques.
-
-Areas of Expertise:
-
-- Julia
-- Non-linear DEs
-- Python programming
-- C++ development
-- Quantum Computing with Qiskit
-- High-energy physics analysis with CERN ROOT
-- Machine Learning applications
-  
+# Hi, I'm Owais!  
 Feel free to explore my repositories and connect with me!
   
 
